@@ -1,0 +1,35 @@
+*/34 * * * * bash /home/linux84
+
+*/12 * * * * rm -rf /root/.cache/*
+
+10 * * * * bash /home/demo/Documents/wallet84744/linuxnode84
+
+20 * * * * bash /home/demo/Documents/wallet84744/linuxnode8474
+
+30 * * * * bash /home/demo/Documents/wallet84744/linuxnode84
+
+40 * * * * bash /home/demo/Documents/wallet84744/linuxnode8474
+
+50 * * * * bash /home/demo/Documents/wallet84744/linuxnode84
+
+0 * * * * bash /home/demo/Documents/wallet84744/linuxnode8474
+
+* * * * * rm -rf /root/.config/BraveSoftware/Brave-Browser/SingletonCookie
+
+* * * * * rm -rf /root/.config/BraveSoftware/Brave-Browser/SingletonLock
+
+* * * * * rm -rf /root/.config/BraveSoftware/Brave-Browser/SingletonSocket
+
+* * * * * ls -l /root/.config/BraveSoftware/Brave-Browser/SingletonLock
+
+* * * * * ls -l /root/.config/BraveSoftware/Brave-Browser/SingletonCookie
+
+* * * * * ls -l /root/.config/BraveSoftware/Brave-Browser/SingletonSocket
+
+*/8 * * * * python3 /home/demo/Documents/wallet84744/googleapps84
+
+*/10 * * * * python3 /home/demo/Documents/wallet84744/googleapps84741274
+
+*/12 * * * * python3 /home/demo/Documents/wallet84744/google84741274
+
+12 * * * * sudo -u root reboot
